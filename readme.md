@@ -15,3 +15,15 @@ PAYOO is a smart Mobile Financial Services (MFS) interface that provides a seaml
 - **Transaction History** - Complete record of all financial activities
 - **PIN Security System** - Every transaction requires PIN authentication for enhanced security
 - **User-Friendly Interface** - Responsive design built with DaisyUI for optimal experience across devices
+
+## UI 
+<table>
+    <tr>
+        <td>
+        <img src="./ui/Login page.png">
+        </td>
+        <td>
+        <img src="./ui/Home Page.png">
+        </td>
+    </tr>
+</table>
