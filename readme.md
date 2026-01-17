@@ -23,7 +23,7 @@ PAYOO is a smart Mobile Financial Services (MFS) interface that provides a seaml
         <img src="./ui/Login page.png" >
         </td>
         <td >
-        <img src="./assets/Logo-full.png" >
+        <img src="./assets/Logo-full.png" width="100%" style="background:white;padding:10px;">
         </td>
     </tr>
     <tr>
