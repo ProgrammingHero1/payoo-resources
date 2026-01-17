@@ -19,11 +19,30 @@ PAYOO is a smart Mobile Financial Services (MFS) interface that provides a seaml
 ## UI 
 <table>
     <tr>
+        <td colspan="4" style="align:center">
+        <img src="./ui/Login page.png" style="text-align:center">
+        </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+        <img src="./ui/Home Page.png">
+        </td>
+         <td colspan="2" >
+        <img src="./ui/Transactions.png">
+        </td>
+    </tr>
+     <tr>
         <td>
-        <img src="./ui/Login page.png">
+        <img src="./ui/Get Bonus.png">
         </td>
         <td>
-        <img src="./ui/Home Page.png">
+        <img src="./ui/Add Money.png">
+        </td>
+        <td>
+        <img src="./ui/Cashout.png">
+        </td>
+        <td>
+        <img src="./ui/send money.png">
         </td>
     </tr>
 </table>
