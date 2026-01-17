@@ -19,30 +19,60 @@ PAYOO is a smart Mobile Financial Services (MFS) interface that provides a seaml
 ## UI 
 <table>
     <tr>
-        <td colspan="4" style="align:center">
-        <img src="./ui/Login page.png" style="text-align:center">
+        <td>
+        <img src="./ui/Login page.png" >
+        </td>
+        <td >
+        <img src="./ui/Home Page.png">
         </td>
     </tr>
     <tr>
-     <td colspan="2">
-        <img src="./ui/Home Page.png">
+        <td>
+        <img src="./ui/Cashout.png" >
         </td>
-         <td colspan="2" >
-        <img src="./ui/Transactions.png">
+        <td >
+        <img src="./ui/Add Money.png" >
         </td>
     </tr>
-     <tr>
+    <tr>
         <td>
-        <img src="./ui/Get Bonus.png">
+        <img src="./ui/Transactions.png" >
         </td>
-        <td>
-        <img src="./ui/Add Money.png">
-        </td>
-        <td>
-        <img src="./ui/Cashout.png">
-        </td>
-        <td>
-        <img src="./ui/send money.png">
+        <td >
+        <img src="./ui/Pay Bill.png" >
         </td>
     </tr>
+    <tr>
+        <td>
+        <img src="./ui/send money.png" >
+        </td>
+        <td >
+        <img src="./ui/Home Page.png" >
+        </td>
+    </tr>
+    
 </table>
+
+## How to use
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ProgrammingHero1/payoo-resources.git
+```
+
+### 2. Install Dependencies
+
+Copy the project assets and set up required CDNs:
+
+- **Tailwind CSS** - Add to `<head>`:
+
+
+- **DaisyUI** - Add after Tailwind:
+
+
+- **Font Awesome** - Add Font Awesome icons:
+
+
+### 3. Start Building the Application
+
