@@ -6,3 +6,12 @@
 PAYOO is a smart Mobile Financial Services (MFS) interface that provides a seamless digital banking experience. Built with HTML, CSS, DaisyUI, and Vanilla JavaScript, it offers a user-friendly platform for managing money transfers and financial transactions. The application supports key banking operations including adding money, cashouts, bonus rewards, and comprehensive transaction history tracking.
 
 ## Features 
+- **Simple Login Interface** - Secure authentication with username and password
+- **Home Dashboard** - View account balance and quick access to all services
+- **Add Money** - Deposit funds into your PAYOO account
+- **Cash Out** - Withdraw money with PIN verification
+- **Money Transfer** - Send money to other users securely
+- **Bonus Rewards** - Earn and track promotional bonuses
+- **Transaction History** - Complete record of all financial activities
+- **PIN Security System** - Every transaction requires PIN authentication for enhanced security
+- **User-Friendly Interface** - Responsive design built with DaisyUI for optimal experience across devices
